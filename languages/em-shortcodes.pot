@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Jesus Fim widget\n"
+"POT-Creation-Date: 2018-04-12 09:39+0200\n"
+"PO-Revision-Date: 2015-03-19 11:19+0100\n"
+"Last-Translator: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language-Team: Agapé France <communication@agapefrance.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings.php:16
+msgid "Options saved."
+msgstr ""
+
+#: admin/settings.php:57
+msgid "EM Shortcodes Settings"
+msgstr ""
+
+#: admin/settings.php:66
+msgid "Thumbnail Settings:"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Thumbnails width:"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "or"
+msgstr ""
+
+#: admin/settings.php:75
+msgid "Shortcode Options"
+msgstr ""
+
+#: admin/settings.php:79
+msgid "Display events date?"
+msgstr ""
+
+#: admin/settings.php:83 admin/settings.php:94 admin/settings.php:105
+#: admin/settings.php:116 admin/settings.php:169
+msgid "Yes"
+msgstr ""
+
+#: admin/settings.php:85 admin/settings.php:96 admin/settings.php:107
+#: admin/settings.php:118 admin/settings.php:170
+msgid "No"
+msgstr ""
+
+#: admin/settings.php:90
+msgid "Display events time?"
+msgstr ""
+
+#: admin/settings.php:101
+msgid "Display events excerpt?"
+msgstr ""
+
+#: admin/settings.php:112
+msgid "Display button?"
+msgstr ""
+
+#: admin/settings.php:123
+msgid "Text button:"
+msgstr ""
+
+#: admin/settings.php:127
+msgid "Color button:"
+msgstr ""
+
+#: admin/settings.php:131
+msgid "Color button hover:"
+msgstr ""
+
+#: admin/settings.php:135
+msgid "Choose a template"
+msgstr ""
+
+#: admin/settings.php:139
+msgid "Landscape"
+msgstr ""
+
+#: admin/settings.php:144
+msgid "Portrait"
+msgstr ""
+
+#: admin/settings.php:155
+msgid "&nbsp;<&nbsp;"
+msgstr ""
+
+#: admin/settings.php:157
+msgid "&nbsp;>&nbsp;"
+msgstr ""
+
+#: admin/settings.php:165
+msgid "Configure your shortcode"
+msgstr ""
+
+#: admin/settings.php:166
+msgid "Limit:"
+msgstr ""
+
+#: admin/settings.php:167
+msgid "Display image:"
+msgstr ""
+
+#: admin/settings.php:172
+msgid "Choose your category"
+msgstr ""
+
+#: admin/settings.php:175
+msgid "All category"
+msgstr ""
+
+#: admin/settings.php:203
+msgid "Copy/Paste this shortcode"
+msgstr ""
+
+#: admin/settings.php:205
+msgid "CSS"
+msgstr ""
+
+#: classes/class.php:31
+msgid "Settings"
+msgstr ""
