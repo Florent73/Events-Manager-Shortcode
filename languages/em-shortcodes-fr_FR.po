@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: The Jesus Fim widget\n"
-"POT-Creation-Date: 2018-04-12 09:40+0200\n"
-"PO-Revision-Date: 2018-04-12 09:40+0200\n"
+"POT-Creation-Date: 2018-06-13 17:16+0200\n"
+"PO-Revision-Date: 2018-06-13 17:17+0200\n"
 "Last-Translator: \n"
 "Language-Team: Agapé France <communication@agapefrance.org>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.8\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -45,12 +45,12 @@ msgid "Display events date?"
 msgstr "Afficher les dates des évènements ?"
 
 #: admin/settings.php:83 admin/settings.php:94 admin/settings.php:105
-#: admin/settings.php:116 admin/settings.php:169
+#: admin/settings.php:120 admin/settings.php:173
 msgid "Yes"
 msgstr "Oui"
 
 #: admin/settings.php:85 admin/settings.php:96 admin/settings.php:107
-#: admin/settings.php:118 admin/settings.php:170
+#: admin/settings.php:122 admin/settings.php:174
 msgid "No"
 msgstr "Non"
 
@@ -63,66 +63,70 @@ msgid "Display events excerpt?"
 msgstr "Afficher l’extrait des événements ?"
 
 #: admin/settings.php:112
+msgid "Sentence if no event:"
+msgstr "Phrase si aucun événement :"
+
+#: admin/settings.php:116
 msgid "Display button?"
 msgstr "Afficher un bouton ?"
 
-#: admin/settings.php:123
+#: admin/settings.php:127
 msgid "Text button:"
 msgstr "Texte du bouton :"
 
-#: admin/settings.php:127
+#: admin/settings.php:131
 msgid "Color button:"
 msgstr "Couleur du bouton :"
 
-#: admin/settings.php:131
-msgid "Color button hover:"
-msgstr "Couleur du bouton au survol :"
-
 #: admin/settings.php:135
+msgid "Color button hover:"
+msgstr "Couleur du bouton survolé :"
+
+#: admin/settings.php:139
 msgid "Choose a template"
 msgstr "Choisissez votre format"
 
-#: admin/settings.php:139
+#: admin/settings.php:143
 msgid "Landscape"
 msgstr "Paysage"
 
-#: admin/settings.php:144
+#: admin/settings.php:148
 msgid "Portrait"
 msgstr "Portrait"
 
-#: admin/settings.php:155
+#: admin/settings.php:159
 msgid "&nbsp;<&nbsp;"
 msgstr "&nbsp;>&nbsp;"
 
-#: admin/settings.php:157
+#: admin/settings.php:161
 msgid "&nbsp;>&nbsp;"
 msgstr "&nbsp;>&nbsp;"
 
-#: admin/settings.php:165
+#: admin/settings.php:169
 msgid "Configure your shortcode"
 msgstr "Configurez votre code court"
 
-#: admin/settings.php:166
+#: admin/settings.php:170
 msgid "Limit:"
 msgstr "Limite :"
 
-#: admin/settings.php:167
+#: admin/settings.php:171
 msgid "Display image:"
 msgstr "Afficher l'image :"
 
-#: admin/settings.php:172
+#: admin/settings.php:176
 msgid "Choose your category"
 msgstr "Choisissez votre catégorie"
 
-#: admin/settings.php:175
+#: admin/settings.php:179
 msgid "All category"
 msgstr "Toutes les catégories"
 
-#: admin/settings.php:203
+#: admin/settings.php:207
 msgid "Copy/Paste this shortcode"
 msgstr "Copiez et collez ce code court"
 
-#: admin/settings.php:205
+#: admin/settings.php:209
 msgid "CSS"
 msgstr "Feuille de Style CSS"
 

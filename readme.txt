@@ -1,18 +1,18 @@
-﻿=== Events Manager Shortcode ===
+﻿=== Events Manager Shortcodes ===
 Contributors: Florent73
 Donate link: https://www.paypal.me/RestezConnectes/25
 Tags: WordPress, plugin
 Requires at least: 3.0
-Tested up to: 4.9.1
-Stable tag: 0.1
+Tested up to: 4.9
+Stable tag: 0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Displays your events from Events Manager on your pages with a shortcode.
+Displays your events from Events Manager on your pages with a shortcode
 
 == Description ==
 
-Displays your events from Events Manager on your pages with a shortcode. Customize it with your colors, display options and CSS style.
+Displays your events from Events Manager on your pages with a shortcode
 
 == Installation ==
 
@@ -23,10 +23,6 @@ Displays your events from Events Manager on your pages with a shortcode. Customi
 == Screenshots ==
 
 1. View general settings
-
-= 	Needs Your Support =
-
-It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using WP Maintenance and find it useful, please consider <a href="https://www.paypal.me/RestezConnectes/25">making a donation</a>. Your donation will help encourage and support the plugin's continued development and better user support.
 
 == Frequently Asked Questions ==
 
@@ -40,10 +36,13 @@ Yes. Thank you for submitting your changes to update the plugin.
 
 == Upgrade Notice ==
 
-= 0.1 =
+= 0.2 =
 This version is stable
 
 == Changelog ==
+
+= 0.2 =
+* Adding sentence if not events
 
 = 0.1 =
 * First version

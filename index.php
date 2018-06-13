@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Events Manager Shortcode
+Plugin Name: Events Manager Shortcodes
 Plugin URI:  https://restezconnectes.fr
 Description: Displays your events from Events Manager in a widget or your pages with a shortcode
-Version:     0.1
+Version:     0.2
 Author:      Florent Maillefaud
 Author URI:  https://restezconnectes.fr
 License:     GPL3 or later
@@ -34,9 +34,9 @@ defined( 'ABSPATH' )
 define( 'EMS_DIR', plugin_dir_path( __FILE__ ) );
 define( 'EMS_URL', plugin_dir_url( __FILE__ ) );
 define( 'EMS_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
-define( 'EMS_PLUGIN_URL', plugins_url().'/'.strtolower('events-manager-shortcode').'/');
+define( 'EMS_PLUGIN_URL', plugins_url().'/'.strtolower('em_shortcodes').'/');
 
-if( !defined( 'EMS_VERSION' )) { define( 'EMS_VERSION', '0.1' ); }
+if( !defined( 'EMS_VERSION' )) { define( 'EMS_VERSION', '0.2' ); }
 
 require EMS_DIR . 'classes/class.php';
 require EMS_DIR . 'includes/shortcodes.php';

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: The Jesus Fim widget\n"
-"POT-Creation-Date: 2018-04-12 09:39+0200\n"
+"POT-Creation-Date: 2018-06-13 17:16+0200\n"
 "PO-Revision-Date: 2015-03-19 11:19+0100\n"
 "Last-Translator: Florent Maillefaud <contact@restezconnectes.fr>\n"
 "Language-Team: Agapé France <communication@agapefrance.org>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.8\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
@@ -46,12 +46,12 @@ msgid "Display events date?"
 msgstr ""
 
 #: admin/settings.php:83 admin/settings.php:94 admin/settings.php:105
-#: admin/settings.php:116 admin/settings.php:169
+#: admin/settings.php:120 admin/settings.php:173
 msgid "Yes"
 msgstr ""
 
 #: admin/settings.php:85 admin/settings.php:96 admin/settings.php:107
-#: admin/settings.php:118 admin/settings.php:170
+#: admin/settings.php:122 admin/settings.php:174
 msgid "No"
 msgstr ""
 
@@ -64,66 +64,70 @@ msgid "Display events excerpt?"
 msgstr ""
 
 #: admin/settings.php:112
+msgid "Sentence if no event:"
+msgstr ""
+
+#: admin/settings.php:116
 msgid "Display button?"
 msgstr ""
 
-#: admin/settings.php:123
+#: admin/settings.php:127
 msgid "Text button:"
 msgstr ""
 
-#: admin/settings.php:127
+#: admin/settings.php:131
 msgid "Color button:"
 msgstr ""
 
-#: admin/settings.php:131
+#: admin/settings.php:135
 msgid "Color button hover:"
 msgstr ""
 
-#: admin/settings.php:135
+#: admin/settings.php:139
 msgid "Choose a template"
 msgstr ""
 
-#: admin/settings.php:139
+#: admin/settings.php:143
 msgid "Landscape"
 msgstr ""
 
-#: admin/settings.php:144
+#: admin/settings.php:148
 msgid "Portrait"
 msgstr ""
 
-#: admin/settings.php:155
+#: admin/settings.php:159
 msgid "&nbsp;<&nbsp;"
 msgstr ""
 
-#: admin/settings.php:157
+#: admin/settings.php:161
 msgid "&nbsp;>&nbsp;"
 msgstr ""
 
-#: admin/settings.php:165
+#: admin/settings.php:169
 msgid "Configure your shortcode"
 msgstr ""
 
-#: admin/settings.php:166
+#: admin/settings.php:170
 msgid "Limit:"
 msgstr ""
 
-#: admin/settings.php:167
+#: admin/settings.php:171
 msgid "Display image:"
 msgstr ""
 
-#: admin/settings.php:172
+#: admin/settings.php:176
 msgid "Choose your category"
 msgstr ""
 
-#: admin/settings.php:175
+#: admin/settings.php:179
 msgid "All category"
 msgstr ""
 
-#: admin/settings.php:203
+#: admin/settings.php:207
 msgid "Copy/Paste this shortcode"
 msgstr ""
 
-#: admin/settings.php:205
+#: admin/settings.php:209
 msgid "CSS"
 msgstr ""
 

@@ -70,7 +70,7 @@ if(!get_option('em_shortcodes_css') or get_option('em_shortcodes_css')=='') {
                 <option value="medium"<?php if( isset($paramMMode['image_width']) && $paramMMode['image_width']=='medium' ) { echo ' selected'; } ?>>medium</option>
                 <option value="large"<?php if( isset($paramMMode['image_width']) && $paramMMode['image_width']=='large' ) { echo ' selected'; } ?>>large</option>
                 <option value="thumbnail"<?php if( isset($paramMMode['image_width']) && $paramMMode['image_width']=='full' ) { echo ' selected'; } ?>>full</option>
-            </select> <?php _e('or', 'em-shortcodes'); ?> <input type="text" id="" name="em_shortcodes_settings[image_width_px]" value="<?php if( isset($paramMMode['image_width_px']) ) { echo $paramMMode['image_width_px']; } ?>" placeholder="<?php _e('Width', 'em-shortcodes'); ?>" /> X <input type="text" id="" name="em_shortcodes_settings[image_height_px]" value="<?php if( isset($paramMMode['image_height_px']) ) { echo $paramMMode['image_height_px']; } ?>" placeholder="<?php _e('Height', 'em-shortcodes'); ?>" />
+            </select> <?php _e('or', 'em-shortcodes'); ?> <input type="text" id="" name="em_shortcodes_settings[image_width_px]" value="<?php if( isset($paramMMode['image_width_px']) ) { echo $paramMMode['image_width_px']; } ?>" placeholder="Width" /> X <input type="text" id="" name="em_shortcodes_settings[image_height_px]" value="<?php if( isset($paramMMode['image_height_px']) ) { echo $paramMMode['image_height_px']; } ?>" placeholder="Height" />
         
             <h3><?php _e('Shortcode Options', 'em-shortcodes'); ?></h3>
             
@@ -107,6 +107,10 @@ if(!get_option('em_shortcodes_css') or get_option('em_shortcodes_css')=='') {
                             <label for="switch_displayexcerpt_no"><?php _e('No', 'em-shortcodes'); ?></label>
                         </div>                    
                     </td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="left"><?php _e('Sentence if no event:', 'em-shortcodes'); ?></td>
+                    <td><input type="text" name="em_shortcodes_settings[textnotevent]" value="<?php if( isset($paramMMode['textnotevent']) && $paramMMode['textnotevent']!='' ) { echo stripslashes($paramMMode['textnotevent']); } else { echo 'There is no event actually...'; } ?>" /></td>
                 </tr>
                 <tr>
                     <td valign="middle" align="left"><?php _e('Display button?', 'em-shortcodes'); ?></td>
